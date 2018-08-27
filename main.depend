@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1492342753 source:c:\users\user\desktop\nouveau dossier\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1492342754 source:f:\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1492371991 source:c:\users\sg\desktop\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1492460419 source:c:\users\sg\desktop\main\untitled1.rc
+
+1492460420 source:c:\users\user\desktop\main\untitled1.rc
+
+1492673032 source:c:\users\user\desktop\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1492460420 source:e:\1cpi\tp1  s2\untitled1.rc
+
+1492675000 source:e:\1cpi\tp1  s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
